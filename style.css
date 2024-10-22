@@ -37,3 +37,7 @@ li {
 img src {
     padding: 10px;
 }
+
+p {
+    text-align: left;
+}
